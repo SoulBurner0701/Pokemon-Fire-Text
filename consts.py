@@ -1,0 +1,2 @@
+# CONSTANTS AND VARIABLES
+FILE_POKEDEX = "data/pokedex.dat"
